@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="42" started-at="2022-08-26T05:12:34Z" finished-at="2022-08-26T05:12:34Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="42" started-at="2022-08-26T05:12:34Z" finished-at="2022-08-26T05:12:34Z">
+      <class name="com.rameshsoft.gitdemo.test.GitTest">
+        <test-method status="PASS" signature="testOne()[pri:0, instance:com.rameshsoft.gitdemo.test.GitTest@6be46e8f]" name="testOne" duration-ms="13" started-at="2022-08-26T10:42:34Z" finished-at="2022-08-26T10:42:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOne -->
+        <test-method status="PASS" signature="testThree()[pri:0, instance:com.rameshsoft.gitdemo.test.GitTest@6be46e8f]" name="testThree" duration-ms="1" started-at="2022-08-26T10:42:34Z" finished-at="2022-08-26T10:42:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testThree -->
+        <test-method status="PASS" signature="testTwo()[pri:0, instance:com.rameshsoft.gitdemo.test.GitTest@6be46e8f]" name="testTwo" duration-ms="1" started-at="2022-08-26T10:42:34Z" finished-at="2022-08-26T10:42:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTwo -->
+      </class> <!-- com.rameshsoft.gitdemo.test.GitTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
