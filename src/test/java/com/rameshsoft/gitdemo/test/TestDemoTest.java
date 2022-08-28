@@ -13,8 +13,15 @@ public class TestDemoTest {
 		System.out.println("TestFour..........");
 	}
 	@Test
+
 	public void testSeven() {
 		System.out.println("TestFour..........");
 	}
+
+	public void testSix() {
+		System.out.println("TestFour..........");
+	}
+
+
 
 }
