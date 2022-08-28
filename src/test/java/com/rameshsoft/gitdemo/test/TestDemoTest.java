@@ -8,5 +8,10 @@ public class TestDemoTest {
 	public void testFour() {
 		System.out.println("TestFour..........");
 	}
+	@Test
+	public void testFive() {
+		System.out.println("TestFour..........");
+	}
+
 
 }
